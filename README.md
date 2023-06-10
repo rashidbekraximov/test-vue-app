@@ -18,11 +18,6 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
 ### Run project on server
 ```
 docker run -it -p 8080:80 -d --name docker-vuejs-nginx hanu4u89/docker-vuejs-nginx
